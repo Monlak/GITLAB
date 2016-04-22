@@ -7,6 +7,7 @@ void main()
   int i, won; 
   
   int YourLotteryNo;  
+  int x;
    
   printf("Enter your Lottery Number (0 to end): "); 
   scanf("%d", &YourLotteryNo); 
